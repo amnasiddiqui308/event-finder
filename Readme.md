@@ -8,7 +8,7 @@ A responsive single page website for discovering local events with interactive f
 - **Interactive Events Section**: 
   - Search and filter events by name
   - Dynamic event cards with hover effects
-- **Contact Form**: A dummy contact form
+- **Contact Form**: A contact form with proper validation
 - **Smooth Navigation**: Single page scrolling between sections
 - **Mobile Friendly**: Hamburger menu for smaller screens
 
