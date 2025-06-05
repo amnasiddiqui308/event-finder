@@ -1,16 +1,16 @@
 # EventFinder - Local Events Discovery Platform
 
-A responsive single-page website for discovering local events with interactive features.
+A responsive single page website for discovering local events with interactive features.
 
 ## Features
 
 - **Responsive Design**: Works on mobile, tablet, and desktop
 - **Interactive Events Section**: 
-  - Search and filter events by name, location, or description
+  - Search and filter events by name
   - Dynamic event cards with hover effects
-- **Contact Form**: Functional form with validation
-- **Smooth Navigation**: Single-page scrolling between sections
-- **Mobile-Friendly**: Hamburger menu for smaller screens
+- **Contact Form**: A dummy contact form
+- **Smooth Navigation**: Single page scrolling between sections
+- **Mobile Friendly**: Hamburger menu for smaller screens
 
 ## Technologies Used
 
@@ -30,6 +30,6 @@ A responsive single-page website for discovering local events with interactive f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/eventfinder.git
+   git clone https://amnasiddiqui308.github.io/event-finder/
 2. Navigate to the project directory.
 3. Open the index.html file using a local server like VS Code Live Server Extension.
