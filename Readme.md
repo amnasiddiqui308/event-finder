@@ -24,7 +24,7 @@ A responsive single-page website for discovering local events with interactive f
 
 ## Live Demo
 
-[View Live Demo on GitHub Pages](https://yourusername.github.io/eventfinder/)
+[View Live Demo on GitHub Pages](https://amnasiddiqui308.github.io/event-finder/)
 
 ## How to Run Locally
 
